@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@font-face {
+  font-family: "gg";
+  src: url("./assets/fonts/gg.otf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+.nav-font {
+  font-family: "gg", sans-serif;
+}
+body {
+  font-family: "Rajdhani", sans-serif;
+}
